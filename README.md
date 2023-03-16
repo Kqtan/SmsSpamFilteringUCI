@@ -69,3 +69,9 @@ The source code consists of 4 main sections
 4. Unsupervised model
 - process of utilising some common unsupervised model
 - plotting of the result of each model
+
+----------------------------
+# 4.0 Team
+----------------------------
+Courtesy of
+ Lee, J. W. J., Tan, K. Q., Teoh, R., Wu, Z. W. and Yee, W. K.
